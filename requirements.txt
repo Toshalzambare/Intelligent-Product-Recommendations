@@ -1,0 +1,11 @@
+pandas
+numpy
+mlxtend
+scikit-learn
+matplotlib
+plotly
+joblib
+fastapi
+uvicorn
+streamlit
+pyngrok
